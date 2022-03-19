@@ -50,13 +50,21 @@
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
     },
-    {
+       {
       "name": "Soldait Token",
-      "symbol": "Sol",
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "SOL",
+      "address": "0xFD7113a715cEe3d961eDD72E277cB122E2F2744b",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://i.ibb.co/4Z6Tb5L/bunny-2x.webp"
+    },
+    {
+      "name": "Pancake Token",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
     {
       "name": "Venus",

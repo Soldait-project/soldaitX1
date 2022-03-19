@@ -26,7 +26,7 @@ export const mainnetTokens = defineTokens({
     MAINNET,
     '0xFD7113a715cEe3d961eDD72E277cB122E2F2744b',
     18,
-    'Sol',
+    'SOL',
     'Soldait Token',
     'https://soldait.com',
   ),
